@@ -1,3 +1,3 @@
 # Pokemon_Project
 
-Nikhil and Simon final project
+Comp Sci 30 final project by Nikhil Nayyar and Simon Gordon
